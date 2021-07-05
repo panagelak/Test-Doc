@@ -10,8 +10,8 @@ Welcome to Test Doc documentation!
    :maxdepth: 2
    :caption: First Steps:
 
-   test
-   help
+   installation
+   getting_started
 
 
 Indices and tables
