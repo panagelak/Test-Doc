@@ -11,7 +11,7 @@ Welcome to Test Doc documentation!
    :caption: First Steps:
 
    installation
-   getting_started
+   start
 
 
 Indices and tables
