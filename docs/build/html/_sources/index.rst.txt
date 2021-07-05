@@ -12,7 +12,6 @@ Welcome to Test Doc documentation!
 
    test
    help
-   intro
 
 
 .. Indices and tables
